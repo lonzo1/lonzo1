@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 Pronouns: They/Them
-- 🌱 I’m currently learning Common Lisp, Vue, and Clojure.
+- 🌱 I’m currently learning Common Lisp, Vue, Java, and Clojure.
 - 💬 Ask me about ZFS, I will definitly shill it.
 
 <!--
